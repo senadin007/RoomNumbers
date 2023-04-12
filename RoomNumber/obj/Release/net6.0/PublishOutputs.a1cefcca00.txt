@@ -1,0 +1,5 @@
+C:\Users\User01\source\repos\Project\Publish\RoomNumber.exe
+C:\Users\User01\source\repos\Project\Publish\RoomNumber.dll
+C:\Users\User01\source\repos\Project\Publish\RoomNumber.deps.json
+C:\Users\User01\source\repos\Project\Publish\RoomNumber.runtimeconfig.json
+C:\Users\User01\source\repos\Project\Publish\RoomNumber.pdb
